@@ -1,0 +1,87 @@
+#statusprime{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#labelstatusprime{
+    font-size: 50px;
+}
+#prime1{
+    display: flex;
+    justify-content: center;
+    text-align: center;  
+    margin-top: 30px;  
+}
+#startprime{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 150px;
+}
+#startprime1{
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 50px;
+    font-size: 35px;
+    border-radius: 30px;
+}
+#money{
+    font-size: 25px;
+}
+#myprimes{
+    background-image: 
+    linear-gradient(90deg,blue,red,green);
+    margin-top: 13px;
+    margin-left: 30px;
+    color: white;
+}
+#divmyprimes{
+    border: solid rgb(165, 161, 161);
+    width: 1230px;
+    height: 50px;
+    background-color: rgb(165, 161, 161);
+}
+#seemyprimes{
+    border: solid  rgb(165, 161, 161);
+    height: 400px;
+    width: 300px;
+    background-color: rgb(165, 161, 161);
+    border-radius: 25px;
+    margin-left: 15px;
+}
+#showing{
+    color: white;
+    margin-top: 260px;
+    margin-left: 150px;
+    background-color: black
+}
+#prime2{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#resetingdiv{
+    border: solid  rgb(165, 161, 161);
+    height: 400px;
+    width: 300px;
+    background-color: rgb(165, 161, 161);
+    margin-left: 320px;
+    border-radius: 25px;
+    margin-top: 15px;
+}
+#statusing{
+    font-size: 30px;
+}
+#resetingdiv{
+    display: flex;
+    justify-content: center;
+    text-align: center;  
+}
+#primeinglabel{
+    font-size: 30px;
+}
+#Reset1{
+    margin-left: 25px;
+    background-color: black;
+    color: white;
+}
